@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcotuliopin
-- 👀 I’m interested in game design and software development
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in exploring new fields
+- 🌱 I’m currently pursuing a bachelor's degree of computer science in the Federal University of Minas Gerais (UFMG)
 - 💞️ I’m looking to collaborate on what I can with my skill in development
 - 📫 How to reach me : email (marcotuliopin@gmail.com)
 
