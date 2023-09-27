@@ -3,7 +3,7 @@
 
 <img src="terminal.gif" align="right" width="180" />
 
-**Computer Science Student** at [Universidade Federal de Minas Gerais](https://ufmg.br/)
+***Computer Science Student*** at [Universidade Federal de Minas Gerais](https://ufmg.br/)
 
 👀 Interested in exploring *new fields*
 
