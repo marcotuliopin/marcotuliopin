@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @marcotuliopin
-- 👀 I’m interested in exploring new fields
-- 🌱 I’m currently pursuing a bachelor's degree of computer science in the Federal University of Minas Gerais (UFMG)
-- 📫 How to reach me : email (marcotufmg@gmail.com)
+# Hi! I'm Marco Túlio Pinho!
+------------------------------------
+
+**Computer Science Student** at [Universidade Federal de Minas Gerais](https://ufmg.br/)
+👀 Interested in exploring *new fields*
+
+- Reach me : email (marcotufmg@gmail.com)
 
 <!---
 marcotuliopin/marcotuliopin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
