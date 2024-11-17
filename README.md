@@ -11,7 +11,7 @@
 
 ```javascript
 const marco = {
-  code: [Python, C, C++, JavaScript, HTML, CSS, Julia],
+  code: [Python, C, C++, JavaScript, HTML, CSS, Typescript],
   tools: [React, Node, Docker, Git, SQL],
 }
 ```
